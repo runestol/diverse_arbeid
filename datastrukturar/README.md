@@ -1,6 +1,6 @@
 ### Prosjekt: Datastrukturar i C++
 
-Frå kurset IN1910 Programmering for naturvitskapelege anvendingar
+Frå kurset IN1910 Programmering for naturvitskapelege anvendingar ved UiO
 
 Øvingar i å konstruere ulike metodar for å lagre data på i C++, med eksempel for bruk i botn av programma.
 
