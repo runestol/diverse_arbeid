@@ -1,1 +1,3 @@
-# diverse_arbeid
+### Diverse arbeid
+
+frå kurs ved UiO
